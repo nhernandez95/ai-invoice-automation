@@ -1,0 +1,15 @@
+INVOICE
+Vendor: Caribbean Office Supplies LLC
+Invoice Number: INV-2026-0418
+Invoice Date: 2026-04-18
+Due Date: 2026-05-18
+
+Line Items:
+Printer Paper - 12 boxes - 480.00
+Toner Cartridge - 4 units - 720.00
+Office Chairs - 3 units - 1350.00
+
+Subtotal: 2550.00
+Tax: 292.50
+Total: 2842.50
+Payment Terms: Net 30
