@@ -13,12 +13,6 @@ This demo extracts key invoice fields, classifies the expense, structures line i
 - Structured data export
 - Practical business process improvement
 
-## LinkedIn Post Hook
-Built an AI invoice processing workflow that turns messy invoice documents into structured finance-ready data.
-
-## Fiverr Gig Title
-I will automate invoice processing, PDF extraction, and finance data entry using AI.
-
 ## Run
 ```bash
 pip install -r requirements.txt
