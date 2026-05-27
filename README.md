@@ -13,6 +13,14 @@ This demo extracts key invoice fields, classifies the expense, structures line i
 - Structured data export
 - Practical business process improvement
 
+## Invoice Dashboard
+
+![Dashboard1](images/invoiceDashboard1.png)
+
+![Dashboard2](images/invoiceDashboard2.png)
+
+![Dashboard3](images/invoiceDashboard3.png)
+
 ## Run
 ```bash
 pip install -r requirements.txt
