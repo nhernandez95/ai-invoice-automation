@@ -6,6 +6,9 @@ Finance and operations teams waste time manually extracting invoice data from PD
 ## Solution
 This demo extracts key invoice fields, classifies the expense, structures line items, and exports the result as clean financial data.
 
+## Use Case Diagram
+![Diagram](images/mermaid-diagram.png)
+
 ## What It Demonstrates
 - Document automation
 - Regex and AI-style information extraction
